@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="basics.student.StudentProfile declaredMajor" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingSize description" />
+      <entry_point TYPE="field" FQNAME="basics.student.StudentProfile firstName" />
+      <entry_point TYPE="field" FQNAME="basics.student.StudentProfile gpa" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingSize L" />
+      <entry_point TYPE="field" FQNAME="basics.student.StudentProfile lastName" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingSize M" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingItem PANTS" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingItem price" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingItem quantity" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingSize S" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingItem SHIRT" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingItem SHOES" />
+      <entry_point TYPE="field" FQNAME="basics.triangle.Triangle sideLenOne" />
+      <entry_point TYPE="field" FQNAME="basics.triangle.Triangle sideLenTwo" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingItem size" />
+      <entry_point TYPE="field" FQNAME="java11.clothing.model.ClothingItem type" />
+    </entry_points>
+    <pattern value="basics.Area" />
+    <pattern value="java11.Arguments" />
+    <pattern value="java11.Arithmetic" />
+    <pattern value="basics.Basics" />
+    <pattern value="java11.Calculator" />
+    <pattern value="java11.clothing.model.ClothingItem" />
+    <pattern value="java11.clothing.model.ClothingItem" method="ClothingItem" />
+    <pattern value="java11.clothing.model.ClothingSize" />
+    <pattern value="java11.clothing.model.ClothingSize" method="ClothingSize" />
+    <pattern value="java11.Conversion" />
+    <pattern value="java11.CurrencyValues" />
+    <pattern value="java11.clothing.model.ClothingItem" method="displayType" />
+    <pattern value="java11.ErrorHandling" />
+    <pattern value="java11.files.FileHandlingV1" />
+    <pattern value="java11.files.FileHandlingV2" />
+    <pattern value="java11.Formatting" />
+    <pattern value="java11.Functions" />
+    <pattern value="java11.clothing.model.ClothingItem" method="getPrice" />
+    <pattern value="java11.clothing.model.ClothingItem" method="getQuantity" />
+    <pattern value="java11.clothing.model.ClothingItem" method="getSize" />
+    <pattern value="java11.clothing.model.ClothingItem" method="getType" />
+    <pattern value="basics.HelloWorld" />
+    <pattern value="basics.student.Main" />
+    <pattern value="basics.triangle.Main" />
+    <pattern value="java11.calculator.Main" />
+    <pattern value="java11.clothing.Main" />
+    <pattern value="basics.Area" method="main" />
+    <pattern value="java11.Arguments" method="main" />
+    <pattern value="java11.Arithmetic" method="main" />
+    <pattern value="basics.Basics" method="main" />
+    <pattern value="java11.Calculator" method="main" />
+    <pattern value="java11.Conversion" method="main" />
+    <pattern value="java11.CurrencyValues" method="main" />
+    <pattern value="java11.ErrorHandling" method="main" />
+    <pattern value="java11.files.FileHandlingV1" method="main" />
+    <pattern value="java11.files.FileHandlingV2" method="main" />
+    <pattern value="java11.Formatting" method="main" />
+    <pattern value="java11.Functions" method="main" />
+    <pattern value="basics.HelloWorld" method="main" />
+    <pattern value="basics.triangle.Main" method="main" />
+    <pattern value="basics.student.Main" method="main" />
+    <pattern value="java11.clothing.Main" method="main" />
+    <pattern value="java11.calculator.Main" method="main" />
+    <pattern value="basics.MCQ" method="main" />
+    <pattern value="java11.months.MonthsConditionsV1" method="main" />
+    <pattern value="java11.months.MonthsConditionsV2" method="main" />
+    <pattern value="java11.months.MonthsLoops" method="main" />
+    <pattern value="java11.months.MonthsSwitcherV1" method="main" />
+    <pattern value="java11.months.MonthsSwitcherV2" method="main" />
+    <pattern value="basics.Price" method="main" />
+    <pattern value="java11.RefOrValue" method="main" />
+    <pattern value="basics.Salary" method="main" />
+    <pattern value="basics.TeaTime" method="main" />
+    <pattern value="java11.UserInput" method="main" />
+    <pattern value="java11.Variables" method="main" />
+    <pattern value="basics.MCQ" />
+    <pattern value="java11.months.MonthsConditionsV1" />
+    <pattern value="java11.months.MonthsConditionsV2" />
+    <pattern value="java11.months.MonthsLoops" />
+    <pattern value="java11.months.MonthsSwitcherV1" />
+    <pattern value="java11.months.MonthsSwitcherV2" />
+    <pattern value="basics.Price" />
+    <pattern value="java11.RefOrValue" />
+    <pattern value="basics.Salary" />
+    <pattern value="java11.clothing.model.ClothingItem" method="setPrice" />
+    <pattern value="java11.clothing.model.ClothingItem" method="setQuantity" />
+    <pattern value="java11.clothing.model.ClothingItem" method="setSize" />
+    <pattern value="java11.clothing.model.ClothingItem" method="setType" />
+    <pattern value="basics.student.StudentProfile" />
+    <pattern value="basics.TeaTime" />
+    <pattern value="java11.clothing.model.ClothingSize" method="toString" />
+    <pattern value="basics.triangle.Triangle" />
+    <pattern value="java11.UserInput" />
+    <pattern value="java11.Variables" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
